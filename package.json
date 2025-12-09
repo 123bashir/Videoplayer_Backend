@@ -5,7 +5,7 @@
   "description": "Backend API for lesson player with YouTube integration",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "dev": "node --watch server.js"
   },
   "dependencies": {
